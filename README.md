@@ -6,7 +6,6 @@ Programador WEB PHP
 
 Programador WEB PHP , palestrante, apaixonado por tecnologia e cultura maker.
 * 🌍  I'm based in Osasco, SP Brasil
-* 🤝  I'm open to collaborating on WebRTC
 
 <a href="https://www.twitter.com/tearing5tv" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/tearing5tv?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"/></a><a href="https://www.github.com/danillo523" target="_blank" rel="noreferrer"><img
